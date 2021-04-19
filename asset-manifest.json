@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Armaggedon_V/static/css/main.51145edc.chunk.css",
-    "main.js": "/Armaggedon_V/static/js/main.9a055eb2.chunk.js",
-    "main.js.map": "/Armaggedon_V/static/js/main.9a055eb2.chunk.js.map",
+    "main.css": "/Armaggedon_V/static/css/main.5daaadba.chunk.css",
+    "main.js": "/Armaggedon_V/static/js/main.1a1dcca6.chunk.js",
+    "main.js.map": "/Armaggedon_V/static/js/main.1a1dcca6.chunk.js.map",
     "runtime-main.js": "/Armaggedon_V/static/js/runtime-main.e849e95d.js",
     "runtime-main.js.map": "/Armaggedon_V/static/js/runtime-main.e849e95d.js.map",
     "static/js/2.67917924.chunk.js": "/Armaggedon_V/static/js/2.67917924.chunk.js",
     "static/js/2.67917924.chunk.js.map": "/Armaggedon_V/static/js/2.67917924.chunk.js.map",
     "index.html": "/Armaggedon_V/index.html",
-    "static/css/main.51145edc.chunk.css.map": "/Armaggedon_V/static/css/main.51145edc.chunk.css.map",
+    "static/css/main.5daaadba.chunk.css.map": "/Armaggedon_V/static/css/main.5daaadba.chunk.css.map",
     "static/js/2.67917924.chunk.js.LICENSE.txt": "/Armaggedon_V/static/js/2.67917924.chunk.js.LICENSE.txt",
     "static/media/AsteroidCard.css": "/Armaggedon_V/static/media/dino.2faf6d60.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e849e95d.js",
     "static/js/2.67917924.chunk.js",
-    "static/css/main.51145edc.chunk.css",
-    "static/js/main.9a055eb2.chunk.js"
+    "static/css/main.5daaadba.chunk.css",
+    "static/js/main.1a1dcca6.chunk.js"
   ]
 }
