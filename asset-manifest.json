@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/armaggedon_v/static/css/main.b09079b7.chunk.css",
-    "main.js": "/armaggedon_v/static/js/main.d9e9e505.chunk.js",
-    "main.js.map": "/armaggedon_v/static/js/main.d9e9e505.chunk.js.map",
-    "runtime-main.js": "/armaggedon_v/static/js/runtime-main.9c5c2a7e.js",
-    "runtime-main.js.map": "/armaggedon_v/static/js/runtime-main.9c5c2a7e.js.map",
-    "static/js/2.67917924.chunk.js": "/armaggedon_v/static/js/2.67917924.chunk.js",
-    "static/js/2.67917924.chunk.js.map": "/armaggedon_v/static/js/2.67917924.chunk.js.map",
-    "index.html": "/armaggedon_v/index.html",
-    "static/css/main.b09079b7.chunk.css.map": "/armaggedon_v/static/css/main.b09079b7.chunk.css.map",
-    "static/js/2.67917924.chunk.js.LICENSE.txt": "/armaggedon_v/static/js/2.67917924.chunk.js.LICENSE.txt",
-    "static/media/AsteroidCard.css": "/armaggedon_v/static/media/dino.2faf6d60.svg"
+    "main.css": "/Armaggedon_V/static/css/main.51145edc.chunk.css",
+    "main.js": "/Armaggedon_V/static/js/main.d9e9e505.chunk.js",
+    "main.js.map": "/Armaggedon_V/static/js/main.d9e9e505.chunk.js.map",
+    "runtime-main.js": "/Armaggedon_V/static/js/runtime-main.e849e95d.js",
+    "runtime-main.js.map": "/Armaggedon_V/static/js/runtime-main.e849e95d.js.map",
+    "static/js/2.67917924.chunk.js": "/Armaggedon_V/static/js/2.67917924.chunk.js",
+    "static/js/2.67917924.chunk.js.map": "/Armaggedon_V/static/js/2.67917924.chunk.js.map",
+    "index.html": "/Armaggedon_V/index.html",
+    "static/css/main.51145edc.chunk.css.map": "/Armaggedon_V/static/css/main.51145edc.chunk.css.map",
+    "static/js/2.67917924.chunk.js.LICENSE.txt": "/Armaggedon_V/static/js/2.67917924.chunk.js.LICENSE.txt",
+    "static/media/AsteroidCard.css": "/Armaggedon_V/static/media/dino.2faf6d60.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c5c2a7e.js",
+    "static/js/runtime-main.e849e95d.js",
     "static/js/2.67917924.chunk.js",
-    "static/css/main.b09079b7.chunk.css",
+    "static/css/main.51145edc.chunk.css",
     "static/js/main.d9e9e505.chunk.js"
   ]
 }
