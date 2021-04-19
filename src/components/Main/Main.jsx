@@ -69,8 +69,10 @@ function Main() {
     return (
         <div className='main'>
             <FilterAsteroids distanceChange={distanceChange} clickFilter={clickFilter}/>
-            {visibleAsteroidList.map(item =><AsteroidCard key={item.id+item['close_approach_data'][0]['close_approach_date_full']} item={item} distanceDisplay={distanceDisplay}/>)}
-            {fetch ? <CircularProgress /> : ""}
+            <div className="ast-wrap">
+                {visibleAsteroidList.map(item =><AsteroidCard key={item.id+item['close_approach_data'][0]['close_approach_date_full']} item={item} distanceDisplay={distanceDisplay}/>)}
+                {fetch ? <CircularProgress /> : ""}
+            </div>
             
         </div>
     )

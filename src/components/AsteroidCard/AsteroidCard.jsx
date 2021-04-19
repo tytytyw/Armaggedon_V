@@ -29,7 +29,7 @@ function AsteroidCard({item, distanceDisplay}) {
                 </div>
 
                 <div className="ast-card__medium">
-                    <h2 className="ast-card__name">
+                    <h2 title={`подробнее об ${item.name}`} className="ast-card__name">
                         {item.name}
                     </h2>
                     <div className="ast-card__decr-item ast-card__decr_date">
