@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Armaggedon_V/static/css/main.51145edc.chunk.css",
-    "main.js": "/Armaggedon_V/static/js/main.4278b3bd.chunk.js",
-    "main.js.map": "/Armaggedon_V/static/js/main.4278b3bd.chunk.js.map",
+    "main.js": "/Armaggedon_V/static/js/main.98caabae.chunk.js",
+    "main.js.map": "/Armaggedon_V/static/js/main.98caabae.chunk.js.map",
     "runtime-main.js": "/Armaggedon_V/static/js/runtime-main.e849e95d.js",
     "runtime-main.js.map": "/Armaggedon_V/static/js/runtime-main.e849e95d.js.map",
     "static/js/2.67917924.chunk.js": "/Armaggedon_V/static/js/2.67917924.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e849e95d.js",
     "static/js/2.67917924.chunk.js",
     "static/css/main.51145edc.chunk.css",
-    "static/js/main.4278b3bd.chunk.js"
+    "static/js/main.98caabae.chunk.js"
   ]
 }
