@@ -1,0 +1,14 @@
+.ast-card__name_basket {
+    border: none;
+    cursor: default;
+}
+
+.filter__distance-wrap_detail {
+    justify-content: flex-start;
+    margin-bottom: 1%;
+}
+
+.bg-gradient_details {
+    height: 40vw;
+    min-height: 55vh;
+}

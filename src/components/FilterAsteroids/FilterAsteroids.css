@@ -1,4 +1,4 @@
-label, span, input {
+label, #filter_danger {
     cursor: pointer;
     user-select: none;
 }

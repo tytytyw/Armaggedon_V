@@ -7,6 +7,10 @@
     margin-bottom: 2em;
 }
 
+.header__nav {
+    z-index: 1;
+}
+
 .header::after {
     content: "";
     position: absolute;
