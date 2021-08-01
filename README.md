@@ -1,5 +1,5 @@
 # Armaggedon_V
-#Сайт про астероиды. На основе данных API NASA
+##Сайт про астероиды. На основе данных API NASA
 
 
 ## Getting Started with Create React App
